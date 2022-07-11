@@ -1,20 +1,6 @@
-# mcs
-Esse é meu projeto de TCC
+PMCS: PLATAFORMA DE MAPEAMENTO CRIMINAL SANTARENO
 
-## Project setup
-```
-npm install
-```
+A cidade de Santarém se destaca no turismo, sendo conhecida nacionalmente pelo encontro entre os rios Tapajós e Amazonas, além disso possui restaurantes com comidas típicas da região norte. Em decorrência disso o turista que vem a cidade fica restrito as áreas mais famosas devido as empresas de turismo se limitarem a locais mais frequentados e com visibilidade. Isto se deve ao receio de ambientes inseguros, sendo que algumas dessas empresas muitas vezes não conhecem a cidade, e trabalham com notícias e relatórios antigos. A Plataforma de Mapeamento Criminal Santareno é um site que apresenta o mapeamento das zonas com maior índice de criminalidade do município através de dados policiais e notícias locais. Os usuários poderão consultar as informações policiais por bairros. O turismo santareno é uma das principais fontes de lucro da cidade, após a implementação do site as empresas terão uma plataforma para utilizar como fonte de informação, assim possibilitando mais opções de passeios seguros.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Santarém city stands out in tourism, being nationally known for the meeting between the Tapajós and Amazonas rivers, in addition to having restaurants with typical foods from the northern region. As a result, the tourist who comes to the city is restricted to the most famous areas due to tourism companies being limited to more frequented places with visibility. This is due to fear of unsafe environments, as some of these companies often do not know the city, and work with old news and reports. Santarem Criminal Mapping Platform is a website that maps the areas with the highest crime rate in the city through police data and local news. Users will be able to consult police information by neighborhood. Santarém tourism is one of the main sources of profit in the city, after the implementation of the website, companies will have a platform to use as a source of information, thus enabling more options for safe tours.
+Keywords: criminal mapping, security, tourism.
